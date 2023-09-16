@@ -5,3 +5,4 @@
 
 三、输入`serve -s dist`命令展示
 
+<img src="preview.png" width="800px"/>
