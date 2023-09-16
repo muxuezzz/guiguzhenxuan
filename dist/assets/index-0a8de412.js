@@ -1,0 +1,1 @@
+import{_ as e,o as t,f as o,g as c}from"./index-167c0a10.js";const n={},s=c("p",null,"我是路由404",-1),_=[s];function r(a,i){return t(),o("div",null,_)}const d=e(n,[["render",r],["__file","C:/MyFile/Work/VUE/vue3_admin_template/project/src/views/404/index.vue"]]);export{d as default};
